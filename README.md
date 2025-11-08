@@ -49,10 +49,6 @@ I blend **creativity** and **logic** to craft user-centered, scalable, and visua
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maloryclaro27&layout=compact&theme=omni&hide_border=true&bg_color=00000000" height="150" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maloryclaro27&theme=dracula&no-frame=true&margin-w=5" />
-</p>
-
 ---
 
 ### 🌼 Let’s Connect 🌼  
