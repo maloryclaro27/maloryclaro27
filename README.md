@@ -1,8 +1,8 @@
-<h1 align="center">✨ Hey there! I'm <span style="color:#ff66b2;">Malory 🌷</span> ✨</h1>
+<h1 align="center">Hey there! I'm <span style="color:#ff66b2;">Malory 🌷</h1>
 
 <p align="center">
   <!-- Cambia 'banner-malory.png' por el nombre real de tu archivo en el repo -->
-  <img src="descarga (1).gif" alt="Malory cyberpunk banner" width="50%" />
+  <img src="descarga (1).gif" alt="Malory cyberpunk banner" width="100%" />
 </p>
 
 <h3 align="center">💻 Full-Stack Developer · 🌐 Web Enthusiast · 🤖 AI Explorer</h3>
@@ -33,8 +33,6 @@ I blend **creativity** and **logic** to craft user-centered, scalable, and visua
 - Building **robust back-end systems**
 - Exploring **AI** to create smarter, more empathetic technology
 
-💬 Motto: *“Every line of code is a brushstroke in the art of innovation.”*
-
 ---
 
 ### 🧠 Tech Stack
@@ -64,18 +62,9 @@ I blend **creativity** and **logic** to craft user-centered, scalable, and visua
 ### 🌼 Let’s Connect 🌼  
 
 <p align="center">
-  <a href="mailto:maloryclaro27@gmail.com"><img src="https://img.shields.io/badge/Email-maloryclaro27%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:claromalory@gmail.com"><img src="https://img.shields.io/badge/Email-maloryclaro27%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/maloryclaro27"><img src="https://img.shields.io/badge/GitHub-maloryclaro27-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
-
-<details>
-  <summary>🌺 Fun fact about me</summary>
-  <br>
-  I love mixing <strong>anime / cyberpunk aesthetics</strong> with <strong>clean code</strong> and <strong>AI experiments</strong>.  
-  If a project looks pretty and runs smoothly, I'm happy 💗
-</details>
-
-<p align="center">🌺 <em>"Code with purpose. Design with soul."</em> 🌺</p>
