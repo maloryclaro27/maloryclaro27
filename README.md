@@ -1,10 +1,9 @@
-<!-- 🔮 Banner principal: usa aquí tu imagen original -->
+<h1 align="center">✨ Hey there! I'm <span style="color:#ff66b2;">Malory 🌷</span> ✨</h1>
+
 <p align="center">
   <!-- Cambia 'banner-malory.png' por el nombre real de tu archivo en el repo -->
   <img src="banner-malory.png" alt="Malory cyberpunk banner" width="100%" />
 </p>
-
-<h1 align="center">✨ Hey there! I'm <span style="color:#ff66b2;">Malory 🌷</span> ✨</h1>
 
 <h3 align="center">💻 Full-Stack Developer · 🌐 Web Enthusiast · 🤖 AI Explorer</h3>
 
