@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Cambia 'banner-malory.png' por el nombre real de tu archivo en el repo -->
-  <img src="image.png" alt="Malory cyberpunk banner" width="100%" />
+  <img src="descarga.gif" alt="Malory cyberpunk banner" width="100%" />
 </p>
 
 <h3 align="center">💻 Full-Stack Developer · 🌐 Web Enthusiast · 🤖 AI Explorer</h3>
